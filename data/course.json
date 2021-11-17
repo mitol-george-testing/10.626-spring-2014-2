@@ -1,0 +1,48 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Electronic Materials"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fbc0e219-bf98-ad34-1799-8ec0484b2200"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Electrochemical Energy Systems",
+  "course_description": "This course introduces principles and mathematical models of electrochemical energy conversion and storage. Students study equivalent circuits, thermodynamics, reaction kinetics, transport phenomena, electrostatics, porous media, and phase transformations. In addition, this course includes applications to batteries, fuel cells, supercapacitors, and electrokinetics.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "10.426",
+  "primary_course_number": "10.626",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
